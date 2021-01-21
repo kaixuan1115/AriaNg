@@ -17,6 +17,7 @@
 - [x] AMovies/[roselip-fetish-0763_HD_ali.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/roselip-fetish-0763_HD_ali.m3u8)
 - [x] AMovies/[roselip-fetish-0763_HD_qq.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/roselip-fetish-0763_HD_qq.m3u8)
 - [x] AMovies/[Caribbean_101117-517-baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/Caribbean_101117-517-baidu.m3u8)
+- [x] AMovies/[Caribbean_101117-517-qqmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/Caribbean_101117-517-qqmail.m3u8)
 - [x] AMovies/[MKBD-S127-baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/MKBD-S127-baidu.m3u8)
 - [x] AMovies/[MKBD-S127-qqom.m3u8.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/MKBD-S127-qqom.m3u8.m3u8)
 
