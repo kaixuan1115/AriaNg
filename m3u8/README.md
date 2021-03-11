@@ -23,9 +23,14 @@
 
 ------------
 
-- [x] 内衣办公室/[01.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/内衣办公室/01.m3u8)
-- [x] 内衣办公室/[02.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/内衣办公室/02.m3u8)
-- [x] 内衣办公室/[03.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/内衣办公室/03.m3u8)
+- [x] AMovies/[xxx-av-20680.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/xxx-av-20680.m3u8)
+- [x] AMovies/[xxx-av-20681.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/xxx-av-20681.m3u8)
+
+------------
+
+- [x] UnderwearOffice/[01.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/UnderwearOffice/01.m3u8)
+- [x] UnderwearOffice/[02.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/UnderwearOffice/02.m3u8)
+- [x] UnderwearOffice/[03.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/UnderwearOffice/03.m3u8)
 
 ------------
 
