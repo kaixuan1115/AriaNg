@@ -26,6 +26,8 @@
 - [x] AMovies/[xxx-av-20680.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/xxx-av-20680.m3u8)
 - [x] AMovies/[xxx-av-20681.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/xxx-av-20681.m3u8)
 - [x] AMovies/[xxx-av-19865.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/xxx-av-19865.m3u8)
+- [x] AMovies/[FC2PPV-1742130-baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/FC2PPV-1742130-baidu.m3u8)
+- [x] AMovies/[FC2PPV-1742130-qqmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/FC2PPV-1742130-qqmail.m3u8)
 
 ------------
 
