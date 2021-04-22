@@ -33,6 +33,11 @@
 
 ------------
 
+- [x] AMovies/[jul406-720p-baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/jul406-720p-baidu.m3u8)
+- [x] AMovies/[jul406-720p-qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/jul406-720p-qmail.m3u8)
+
+------------
+
 - [x] UnderwearOffice/[01.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/UnderwearOffice/01.m3u8)
 - [x] UnderwearOffice/[02.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/UnderwearOffice/02.m3u8)
 - [x] UnderwearOffice/[03.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/UnderwearOffice/03.m3u8)
