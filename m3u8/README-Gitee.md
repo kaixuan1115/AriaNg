@@ -35,6 +35,13 @@
 
 ------------
 
+- [x] AMovies/[Inch-stop_Game_04.baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/Inch-stop%20Game/Inch-stop_Game_04.baidu.m3u8)
+- [x] AMovies/[Inch-stop_Game_04.qqom.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/Inch-stop%20Game/Inch-stop_Game_04.qqom.m3u8)
+- [x] AMovies/[Inch-stop_Game_05.baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/Inch-stop%20Game/Inch-stop_Game_05.baidu.m3u8)
+- [x] AMovies/[Inch-stop_Game_05.qqom.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/Inch-stop%20Game/Inch-stop_Game_05.qqom.m3u8)
+
+------------
+
 - [x] AMovies/[jul406-720p-baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/jul406-720p-baidu.m3u8)
 - [x] AMovies/[jul406-720p-qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/jul406-720p-qmail.m3u8)
 
