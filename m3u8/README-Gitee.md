@@ -44,6 +44,8 @@
 
 - [x] AMovies/[jul406-720p-baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/jul406-720p-baidu.m3u8)
 - [x] AMovies/[jul406-720p-qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/jul406-720p-qmail.m3u8)
+- [x] AMovies/[stars-126-C_baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/stars-126-C_baidu.m3u8)
+- [x] AMovies/[stars-126-C_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/stars-126-C_qmail.m3u8)
 
 ------------
 
