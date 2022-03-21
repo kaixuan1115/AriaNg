@@ -44,6 +44,8 @@
 
 - [x] AMovies/[jul406-720p-baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/jul406-720p-baidu.m3u8)
 - [x] AMovies/[jul406-720p-qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/jul406-720p-qmail.m3u8)
+- [x] AMovies/[071613_627-1pon-whole1_hd_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/071613_627-1pon-whole1_hd_baidu.m3u8)
+- [x] AMovies/[071613_627-1pon-whole1_hd_qqom.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/071613_627-1pon-whole1_hd_qqom.m3u8)
 - [x] AMovies/[stars-126-C_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/stars-126-C_baidu.m3u8)
 - [x] AMovies/[stars-126-C_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/stars-126-C_qmail.m3u8)
 
