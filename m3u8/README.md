@@ -50,6 +50,8 @@
 - [x] AMovies/[stars-126-C_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/stars-126-C_qmail.m3u8)
 - [x] AMovies/[carib-060212-038-720p_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/carib-060212-038-720p_baidu.m3u8)
 - [x] AMovies/[carib-060212-038-720p_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/carib-060212-038-720p_qmail.m3u8)
+- [x] AMovies/[STARS-043_uncensored_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/STARS-043_uncensored_baidu.m3u8)
+- [x] AMovies/[STARS-043_uncensored_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/STARS-043_uncensored_qmail.m3u8)
 
 ------------
 
