@@ -53,6 +53,11 @@
 - [x] AMovies/[STARS-043_uncensored_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/STARS-043_uncensored_baidu.m3u8)
 - [x] AMovies/[STARS-043_uncensored_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/STARS-043_uncensored_qmail.m3u8)
 
+- [x] AMovies/[NOP-019_uncensored_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/NOP-019_uncensored_baidu.m3u8)
+- [x] AMovies/[NOP-019_uncensored_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/NOP-019_uncensored_qmail.m3u8)
+- [x] AMovies/[DRC-207_qmail.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/DRC-207_qmail.m3u8)
+- [x] AMovies/[DRC-207_baidu.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/AMovies/DRC-207_baidu.m3u8)
+
 ------------
 
 - [x] UnderwearOffice/[01.m3u8](https://github.com/kaixuan1115/AriaNg/raw/master/m3u8/UnderwearOffice/01.m3u8)
