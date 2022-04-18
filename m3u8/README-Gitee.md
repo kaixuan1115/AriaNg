@@ -59,6 +59,14 @@
 - [x] AMovies/[NOP-019_uncensored_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/NOP-019_uncensored_qmail.m3u8)
 - [x] AMovies/[DRC-207_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/DRC-207_qmail.m3u8)
 - [x] AMovies/[DRC-207_baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/DRC-207_baidu.m3u8)
+- [x] AMovies/[STARS-156_uncensored_baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/STARS-156_uncensored_baidu.m3u8)
+- [x] AMovies/[STARS-156_uncensored_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/STARS-156_uncensored_qmail.m3u8)
+- [x] AMovies/[Tokyo-Hot_n1463_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/Tokyo-Hot_n1463_qmail.m3u8)
+- [x] AMovies/[Tokyo-Hot_n1463_baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/Tokyo-Hot_n1463_baidu.m3u8)
+- [x] AMovies/[heyzo_hd_0594_baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/heyzo_hd_0594_baidu.m3u8)
+- [x] AMovies/[heyzo_hd_0594_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/heyzo_hd_0594_qmail.m3u8)
+- [x] AMovies/[1pondo-031215_043_qmail.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/1pondo-031215_043_qmail.m3u8)
+- [x] AMovies/[1pondo-031215_043_baidu.m3u8](https://gitee.com/cpper-kaixuan/AriaNg/raw/master/m3u8/AMovies/1pondo-031215_043_baidu.m3u8)
 
 ------------
 
